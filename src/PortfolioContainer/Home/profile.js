@@ -26,13 +26,22 @@ const Profile = () => {
             </span>
           </div>
 
-          <p>
-                <Typical 
+          <div  div className="profile-detail-role">
+            <span className="primary-text">
+              <h1>
+              <Typical 
                 loop={Infinity} 
-                steps={["Enthusiastic Dev", 1000,
+                steps={[
+                  "Ethusiastic Dev", 1000,
+                  "Full Stack  Developer", 1000,
+                  "MERN Stack Developer", 1000,
+                 
                 
-                "dunkiri",2000]} />
-            </p>
+                ]} />
+              </h1>
+            </span>
+               </div>
+            
         
             
           

@@ -39,7 +39,11 @@ const Profile = () => {
                 
                 ]} />
               </h1>
+              <span className="profile-role-tagline">knack of building application with front and back end operations.</span>
             </span>
+               </div>
+               <div className="profile-options">
+                <button className="button">Hire Me</button>
                </div>
             
         
